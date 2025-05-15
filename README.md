@@ -22,7 +22,8 @@ While "Maze of Shadows" is a **work in progress** with many potential avenues fo
 ## ✨ Watch the Maze of Shadows in Action! ✨
 
 Curious to see how it all comes together? Check out our gameplay demo video!
-Click the thumbnail below and download the raw video to see it in action!
+
+**Click the thumbnail below and download the raw video to see it in action!**
 [![Watch the demo](cover-image.png)](demo-video.mp4)
 
 *The video demonstrates:*
